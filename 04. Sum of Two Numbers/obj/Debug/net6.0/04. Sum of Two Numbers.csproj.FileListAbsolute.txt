@@ -1,0 +1,15 @@
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.exe
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.deps.json
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.runtimeconfig.json
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.dll
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\ref\04. Sum of Two Numbers.dll
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\bin\Debug\net6.0\04. Sum of Two Numbers.pdb
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.dll
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\ref\04. Sum of Two Numbers.dll
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.pdb
+C:\Visual Studio\Exam\00\04. Sum of Two Numbers\obj\Debug\net6.0\04. Sum of Two Numbers.genruntimeconfig.cache
